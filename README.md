@@ -3,5 +3,7 @@ ___________________________________________________________
 
 ## Login Page
 ![ Screenshot1](src/images/Login.png)
+## Admin Page
+![ Screenshot1](src/images/Admin.png)
 
 
