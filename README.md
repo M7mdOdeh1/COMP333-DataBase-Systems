@@ -1,5 +1,4 @@
-# DataBase-Systems Project
-# Online Sport Shop 
+# Online Sport Shop - DataBase Systems Project
 ___________________________________________________________
 
 ## Login Page
