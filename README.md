@@ -1,6 +1,6 @@
 # Online Sport Shop - DataBase Systems Project
 ___________________________________________________________
-##Project Specification
+## Project Specification
 •	The shop has many warehouses in different locations. The warehouse has an id, name, and location.
 •	Warehouse contains many items.
 •	The user can enter the program as an admin or as a customer.
