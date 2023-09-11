@@ -2,5 +2,5 @@
 ___________________________________________________________
 
 ## Login Page
-![ Screenshot1](src/images/login.png)
+![ Screenshot1](src/images/Login.png)
 
